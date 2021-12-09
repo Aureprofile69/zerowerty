@@ -10,15 +10,15 @@ Deploy VLESS server to heroku
 ## 镜像
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/Aureprofile69/zerowerty.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/louyour/dan-vmess)
 
 ## ENV 设定
 
 
 * 代理协议(类型)：vmess 
-* 地址(Address)：codywert02.herokuapp.com
+* 地址(Address)：appname.herokuapp.com
 * 端口(Port)：443
-* 默认UUID：3d0cecbd-6c84-413c-a663-cb1efcedb6e6
+* 默认UUID：ad806487-2d26-4636-98b6-ab85cc8521f7
 * 额外(AlterID): 64
 * 加密方式(encryption)：auto
 * 传输协议(Transport)：ws

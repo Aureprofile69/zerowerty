@@ -1,6 +1,6 @@
 {
-    "name": "zerowerty",
-    "description": "zerowerty.",
+    "name": "V2Ray",
+    "description": "Deploy V2ray on Heroku.",
     "keywords": ["V2Ray"],
     "env": {
         "UUID": {
@@ -9,6 +9,6 @@
         }
     },
  
-    "repository": "https://github.com/zerowerty",
+    "repository": "https://github.com/louyour/dan-vmess",
     "stack": "container"
 }
