@@ -16,7 +16,7 @@ Deploy VLESS server to heroku
 
 
 * 代理协议(类型)：vmess 
-* 地址(Address)：codywert02.herokuapp.com
+* 地址(Address)：appname.herokuapp.com
 * 端口(Port)：443
 * 默认UUID：3d0cecbd-6c84-413c-a663-cb1efcedb6e6
 * 额外(AlterID): 64
